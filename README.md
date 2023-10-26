@@ -12,3 +12,6 @@ how to run
 ''docker-compose up
 '''
 localhost:8081
+
+user=admin
+pw=airflow
